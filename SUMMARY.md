@@ -15,3 +15,4 @@
 * [암호학](group-1/암호학.md)
 * [리버싱](group-1/리버싱.md)
 * [포렌식](group-1/포렌식.md)
+* [MISC](group-1/MISC.md)
