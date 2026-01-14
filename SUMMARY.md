@@ -4,4 +4,4 @@
 
 ## Group 1
 
-* [Page 1](group-1/해킹.md)
+* [해킹](group-1/해킹.md)
