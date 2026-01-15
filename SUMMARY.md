@@ -54,6 +54,14 @@
 * [BOF](group-1/BOF.md)
 * [Heap Overflow](group-1/Heap_Overflow.md)
 * [UAF](group-1/UAF.md)
+* [Double Free](group-1/Double_Free.md)
+* [Format String Bug](group-1/Format_String_Bug.md)
+* [Integer Overflow](group-1/Integer_Overflow.md)
+* [ROP](group-1/ROP.md)
+
+
+
+
 
 
 
