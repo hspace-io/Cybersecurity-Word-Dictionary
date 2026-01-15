@@ -50,6 +50,8 @@
 * [Web Shell](group-1/Web_Shell.md)
 * [IDOR](group-1/IDOR.md)
 * [JWT](group-1/JWT.md)
+* [퍼징](group-1/퍼징.md)
+
 
 
 
