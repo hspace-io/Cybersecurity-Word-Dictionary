@@ -40,4 +40,6 @@
 * [모의해킹](group-1/모의해킹.md)
 * [백도어](group-1/백도어.md)
 * [SQL Injection](group-1/SQL_Injection.md)
+* [Blind SQLi](group-1/Blind_SQLi.md)
+
 
