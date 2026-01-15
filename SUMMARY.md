@@ -44,6 +44,7 @@
 * [XSS](group-1/XSS.md)
 * [CSRF](group-1/CSRF.md)
 * [SSRF](group-1/SSRF.md)
+* [SSTI](group-1/SSTI.md)
 
 
 
