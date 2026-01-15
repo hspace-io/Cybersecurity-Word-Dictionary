@@ -43,6 +43,7 @@
 * [Blind SQLi](group-1/Blind_SQLi.md)
 * [XSS](group-1/XSS.md)
 * [CSRF](group-1/CSRF.md)
+* [SSRF](group-1/SSRF.md)
 
 
 
