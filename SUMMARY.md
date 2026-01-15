@@ -63,6 +63,9 @@
 * [PIE](group-1/PIE.md)
 * [카나리](group-1/카나리.md)
 * [GOT,PLT](group-1/GOT,PLT.md)
+* [NX,DEP](group-1/NX,DEP.md)
+* [디스어셈블리](group-1/디스어셈블리.md)
+
 
 
 
