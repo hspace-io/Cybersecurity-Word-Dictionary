@@ -65,6 +65,8 @@
 * [GOT,PLT](group-1/GOT,PLT.md)
 * [NX,DEP](group-1/NX,DEP.md)
 * [디스어셈블리](group-1/디스어셈블리.md)
+* [디컴파일](group-1/디컴파일.md)
+
 
 
 
