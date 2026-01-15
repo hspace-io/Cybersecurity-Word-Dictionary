@@ -47,6 +47,8 @@
 * [SSTI](group-1/SSTI.md)
 * [Command Injection](group-1/Command_Injection.md)
 * [Path Traversal](group-1/Path_Traversal.md)
+* [Web Shell](group-1/Web_Shell.md)
+* [IDOR](group-1/IDOR.md)
 
 
 
