@@ -42,6 +42,8 @@
 * [SQL Injection](group-1/SQL_Injection.md)
 * [Blind SQLi](group-1/Blind_SQLi.md)
 * [XSS](group-1/XSS.md)
+* [CSRF](group-1/CSRF.md)
+
 
 
 
