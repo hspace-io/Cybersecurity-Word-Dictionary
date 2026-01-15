@@ -66,6 +66,8 @@
 * [NX,DEP](group-1/NX,DEP.md)
 * [디스어셈블리](group-1/디스어셈블리.md)
 * [디컴파일](group-1/디컴파일.md)
+* [동적분석](group-1/동적분석.md)
+
 
 
 
