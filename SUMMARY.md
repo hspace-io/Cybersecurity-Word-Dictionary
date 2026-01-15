@@ -62,6 +62,7 @@
 * [ASLR](group-1/ASLR.md)
 * [PIE](group-1/PIE.md)
 * [카나리](group-1/카나리.md)
+* [GOT,PLT](group-1/GOT,PLT.md)
 
 
 
