@@ -39,3 +39,5 @@
 * [로직버그](group-1/로직버그.md)
 * [모의해킹](group-1/모의해킹.md)
 * [백도어](group-1/백도어.md)
+* [SQL Injection](group-1/SQL_Injection.md)
+
