@@ -49,6 +49,8 @@
 * [Path Traversal](group-1/Path_Traversal.md)
 * [Web Shell](group-1/Web_Shell.md)
 * [IDOR](group-1/IDOR.md)
+* [JWT](group-1/JWT.md)
+
 
 
 
