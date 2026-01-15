@@ -45,6 +45,10 @@
 * [CSRF](group-1/CSRF.md)
 * [SSRF](group-1/SSRF.md)
 * [SSTI](group-1/SSTI.md)
+* [Command Injection](group-1/Command_Injection.md)
+* [Path Traversal](group-1/Path_Traversal.md)
+
+
 
 
 
